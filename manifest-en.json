@@ -1,0 +1,21 @@
+{
+    "short_name": "Online Games",
+    "name": "sniper3dworld.netlify.app",
+    "icons": [
+        {
+            "src": "images/pwa/icons-192-en.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "images/pwa/icons-512-en.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/#utm_source=app",
+    "background_color": "#dde6f1",
+    "display": "fullscreen",
+    "scope": "/",
+    "theme_color": "#f2f6fa"
+}
